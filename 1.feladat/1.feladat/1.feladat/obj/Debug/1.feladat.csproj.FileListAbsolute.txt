@@ -1,0 +1,7 @@
+C:\Users\erik0\OneDrive\Asztali gép\C#\1.feladat\1.feladat\1.feladat\bin\Debug\1.feladat.exe.config
+C:\Users\erik0\OneDrive\Asztali gép\C#\1.feladat\1.feladat\1.feladat\bin\Debug\1.feladat.exe
+C:\Users\erik0\OneDrive\Asztali gép\C#\1.feladat\1.feladat\1.feladat\bin\Debug\1.feladat.pdb
+C:\Users\erik0\OneDrive\Asztali gép\C#\1.feladat\1.feladat\1.feladat\obj\Debug\1.feladat.csproj.AssemblyReference.cache
+C:\Users\erik0\OneDrive\Asztali gép\C#\1.feladat\1.feladat\1.feladat\obj\Debug\1.feladat.csproj.CoreCompileInputs.cache
+C:\Users\erik0\OneDrive\Asztali gép\C#\1.feladat\1.feladat\1.feladat\obj\Debug\1.feladat.exe
+C:\Users\erik0\OneDrive\Asztali gép\C#\1.feladat\1.feladat\1.feladat\obj\Debug\1.feladat.pdb
